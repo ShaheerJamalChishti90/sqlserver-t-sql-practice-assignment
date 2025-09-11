@@ -1,0 +1,5 @@
+Exercise 1: List All Clothing Items
+
+Exercise:
+Display the name of clothing items (name the column clothes), their color (name the column color), and the last name and first name of the customer(s) who bought this apparel in their favorite color. Sort rows according to color, in ascending order.
+

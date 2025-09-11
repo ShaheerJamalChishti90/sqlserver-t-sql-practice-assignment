@@ -1,0 +1,6 @@
+Exercise 2: Get All Non-Buying Customers
+
+Exercise:
+
+Select the last name and first name of customers and the name of their favorite color for customers with no purchases.
+

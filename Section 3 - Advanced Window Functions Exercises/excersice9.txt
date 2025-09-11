@@ -1,0 +1,13 @@
+Exercise 9: Compute the Running Total of Purchases per Customer
+Exercise:
+
+For each customer and their orders, show the following:
+
+customer_id – the ID of the customer.
+full_name – the full name of the customer.
+order_id – the ID of the order.
+order_date – the date of the order.
+total_amount – the total spent on this order.
+running_total – the running total spent by the given customer.
+Sort the rows by customer ID and order date.
+

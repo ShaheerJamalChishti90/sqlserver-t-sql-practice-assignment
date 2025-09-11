@@ -1,0 +1,5 @@
+Exercise 5: How Many Runners Participate in Each Event
+
+Exercise:
+Display the event name and the number of club members that take part in this event (call this column runner_count). Note that there may be events in which no club members participate. For these events, the runner_count should equal 0.
+

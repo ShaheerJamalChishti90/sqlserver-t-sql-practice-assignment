@@ -1,0 +1,5 @@
+Exercise 4: Organize Runners Into Groups
+
+Exercise:
+Select the main distance and the number of runners that run the given distance (runners_number). Display only those rows where the number of runners is greater than 3.
+
